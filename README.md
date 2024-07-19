@@ -13,6 +13,7 @@ the system we offer costs around 150$ and has ___ correlation with the professio
 #### Electronic Compoenets: 
 - FireBeetle 2 ESP-32 E
 - Arduino Nano
+- Breadboard
 - Power supply
 - HC-SR04 Ultrasonic sensor
 - VL53L0 laser sensor
