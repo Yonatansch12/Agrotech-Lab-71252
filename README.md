@@ -1,5 +1,5 @@
 # Agrotech Lab Final Project - Seed counter 
-Made by Gali Shaani & Yonatan Schwartz
+Made by **Gali Shaani & Yonatan Schwartz**
 
 ------------------------------------------------------------------------------------------------------------------------
 
