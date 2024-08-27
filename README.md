@@ -75,9 +75,10 @@ To improve our system, we propose several methods that target different componen
 4. To integrate the capability into the system to send data and counts to a web interface with easy access, which also stores the data history, you could consider using Wi-Fi or Bluetooth modules like the ESP8266 or ESP32. These modules can connect to a server or cloud service, allowing real-time data logging and easy access from any device with internet connectivity.
 5. Create a stable electrical voltage for the vibration motor using a power converter that connects to the mains electricity.
 6. Perform high-quality soldering for the electrical wires.
+------------------------------------------------------------------------------------------------------------------------
 
-
-
+> [!NOTE]
+> Youtube video about our project- [link](https://www.youtube.com/watch?v=bnYVpoCX3ds)
 
 
 
