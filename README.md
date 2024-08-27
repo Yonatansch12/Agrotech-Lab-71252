@@ -30,7 +30,6 @@ During the project, we measured the success rate of seed counting across differe
 ### Hardware
 
 #### Electronic Compoenets: 
-- FireBeetle 2 ESP-32 E
 - Arduino Nano
 - Breadboard
 - Power supply
