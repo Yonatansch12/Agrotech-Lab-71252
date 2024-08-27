@@ -79,7 +79,7 @@ To improve our system, we propose several methods that target different componen
 
 > [!NOTE]
 > Youtube video about our project- [link](https://www.youtube.com/watch?v=bnYVpoCX3ds)
-
+> Running system video - [link](https://www.youtube.com/shorts/xWRjcWZMT7Q)
 
 
 
