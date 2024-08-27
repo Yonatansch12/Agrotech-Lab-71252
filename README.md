@@ -7,7 +7,6 @@ Made by **Gali Shaani & Yonatan Schwartz**
 Create a cheap alternative to the [expensive machine](https://data-technologies.com/product/seed-counter-s25/) " DATA COUNT S-25 PLUS Seed Counter " which costs around 8000$.
 the system we offer costs around 150$ and has a 70-95% correlation with the professional.
 
-![courir-counting-courir-stock](https://github.com/user-attachments/assets/2f36500a-a1ff-4f3f-ba0e-903ad412f9da)
 
 <img src="https://github.com/user-attachments/assets/2f36500a-a1ff-4f3f-ba0e-903ad412f9da" width="250" height="250">
 
@@ -22,8 +21,8 @@ To regulate the seed flow rate, we integrated a vibration motor into the system,
 The system includes an OLED screen that displays the counting progress.
 
 During the project, we measured the success rate of seed counting across different prototypes. The system’s success rate ranged from 70% to 92%, with the final prototype achieving the highest success rate of 92%.
+<img src="[https://github.com/user-attachments/assets/2f36500a-a1ff-4f3f-ba0e-903ad412f9da](https://github.com/user-attachments/assets/136ac238-710b-4edd-b5ca-0e1a6d1b4a73)" width="400" height="400">
 
-![seed_counter_overall](https://github.com/user-attachments/assets/136ac238-710b-4edd-b5ca-0e1a6d1b4a73)
 
 ------------------------------------------------------------------------------------------------------------------------
 ### Hardware
