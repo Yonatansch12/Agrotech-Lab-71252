@@ -52,7 +52,7 @@ Connect the ESP Nano, the screen, and the HC-SR04 sensor to the breadboard, usin
 
 ### The electrical circuit for the vibration system.
 ![vabration_motor_circus](https://github.com/user-attachments/assets/02dbe750-f065-4b90-9562-ceaad3a393cc)
-
+Attention! Due to a shortage of the power supply component we used in the system, we utilized a power source in Fritzing to simulate it.
 
 ------------------------------------------------------------------------------------------------------------------------
 ### improvement suggestions
@@ -61,4 +61,14 @@ To improve our system, we propose several methods that target different componen
 2. Enhancing the system's ability to control seed flow and optimize it according to the sensor's operating rate.
 3. Improving the quality of materials used: lightweight metals, high-quality plastics, and a better and stronger overall framework.
 4. To integrate the capability into the system to send data and counts to a web interface with easy access, which also stores the data history, you could consider using Wi-Fi or Bluetooth modules like the ESP8266 or ESP32. These modules can connect to a server or cloud service, allowing real-time data logging and easy access from any device with internet connectivity.
+5. Create a stable electrical voltage for the vibration motor using a power converter that connects to the mains electricity.
+6. Perform high-quality soldering for the electrical wires.
+
+
+
+
+
+
+
+
 
