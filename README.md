@@ -4,7 +4,7 @@ Made by **Gali Shaani & Yonatan Schwartz**
 ------------------------------------------------------------------------------------------------------------------------
 
 ### Motivation:
-Create a cheap alternative to the expensive machine " DATA COUNT S-25 PLUS Seed Counter " which costs around 8000$.
+Create a cheap alternative to the [expensive machine](https://data-technologies.com/product/seed-counter-s25/) " DATA COUNT S-25 PLUS Seed Counter " which costs around 8000$.
 the system we offer costs around 150$ and has a 70-95% correlation with the professional.
 
 ![courir-counting-courir-stock](https://github.com/user-attachments/assets/2f36500a-a1ff-4f3f-ba0e-903ad412f9da)
