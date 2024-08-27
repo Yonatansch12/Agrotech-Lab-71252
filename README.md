@@ -45,7 +45,8 @@ By using the list of components above In terms of construction, we took an eleva
 Choose an elevated base and attach a funnel to it at an angle that allows the seeds to fall through vibration.
 Construct additional funnels (you can improvise using test tubes, popsicle sticks, hot glue, and tape). Ensure that the final funnel directs the seeds through the HC-SR04 sensor and then into a container.
 Connect the vibration motor to a power switch and a power supply. Ensure optimal operation within the range of 1.8-2.2 volts.
-Connect the ESP Nano, the screen, and the HC-SR04 sensor to the breadboard, using the attached circuit diagram for reference.
+Connect the ESP Nano, the screen, and the HC-SR04 sensor to the breadboard, using the attached circuit diagram for reference.![Uploading vabration_motor_circus.jpeg…](https://github.com/Yonatansch12/Agrotech-Lab-71252/issues/new)
+
 
 ------------------------------------------------------------------------------------------------------------------------
 ### improvement suggestions
