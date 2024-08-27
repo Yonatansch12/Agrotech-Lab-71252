@@ -22,7 +22,7 @@ The system includes an OLED screen that displays the counting progress.
 
 During the project, we measured the success rate of seed counting across different prototypes. The system’s success rate ranged from 70% to 92%, with the final prototype achieving the highest success rate of 92%.
 
-<img src="https://github.com/user-attachments/assets/3a6533da-355f-4cbb-ab00-13cc95428850" width="450" height="400">
+<img src="https://github.com/user-attachments/assets/3a6533da-355f-4cbb-ab00-13cc95428850" width="850" height="800">
 
 <img src="[https://github.com/user-attachments/assets/2f36500a-a1ff-4f3f-ba0e-903ad412f9da](https://github.com/user-attachments/assets/136ac238-710b-4edd-b5ca-0e1a6d1b4a73)" width="400" height="400">
 ![seed_counter_overall](https://github.com/user-attachments/assets/3a6533da-355f-4cbb-ab00-13cc95428850)
