@@ -59,9 +59,13 @@ Connect the ESP Nano, the screen, and the HC-SR04 sensor to the breadboard, usin
 
 ### The electrical circuit for the counting system
 ![seed_counrer_circus](https://github.com/user-attachments/assets/e44aea6c-5e8b-41ce-a7ac-321539d4f1fd)
+<img src="https://github.com/user-attachments/assets/e44aea6c-5e8b-41ce-a7ac-321539d4f1fd" width="250" height="250">
+
 
 ### The electrical circuit for the vibration system.
 ![vabration_motor_circus](https://github.com/user-attachments/assets/02dbe750-f065-4b90-9562-ceaad3a393cc)
+<img src="(https://github.com/user-attachments/assets/02dbe750-f065-4b90-9562-ceaad3a393cc)" width="250" height="250">
+
 > [!IMPORTANT]
 > Attention! Due to a shortage of the power supply component we used in the system, we utilized a power source in Fritzing to simulate it.
 
