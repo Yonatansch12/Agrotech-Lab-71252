@@ -46,6 +46,8 @@ Choose an elevated base and attach a funnel to it at an angle that allows the se
 Construct additional funnels (you can improvise using test tubes, popsicle sticks, hot glue, and tape). Ensure that the final funnel directs the seeds through the HC-SR04 sensor and then into a container.
 Connect the vibration motor to a power switch and a power supply. Ensure optimal operation within the range of 1.8-2.2 volts.
 Connect the ESP Nano, the screen, and the HC-SR04 sensor to the breadboard, using the attached circuit diagram for reference.
+![seed_counrer_circus](https://github.com/user-attachments/assets/e44aea6c-5e8b-41ce-a7ac-321539d4f1fd)
+
 ![vabration_motor_circus](https://github.com/user-attachments/assets/02dbe750-f065-4b90-9562-ceaad3a393cc)
 
 
