@@ -15,6 +15,7 @@ The foundation of our system relies on a fixed ultrasonic distance sensor positi
 To regulate the seed flow rate, we integrated a vibration motor into the system, connected to a power supply, allowing us to control the flow rate effectively. We programmed the system's features using Arduino [code](https://github.com/Yonatansch12/Agrotech-Lab-71252/blob/main/Code)
 
 During the project, we measured the success rate of seed counting across different prototypes. The system’s success rate ranged from 70% to 92%, with the final prototype achieving the highest success rate of 92%.
+
 ------------------------------------------------------------------------------------------------------------------------
 ## Hardware
 #### Electronic Compoenets: 
