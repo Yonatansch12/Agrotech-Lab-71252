@@ -6,6 +6,8 @@ Made by **Gali Shaani & Yonatan Schwartz**
 ### Motivation:
 Create a cheap alternative to the expensive machine " DATA COUNT S-25 PLUS Seed Counter " which costs around 8000$.
 the system we offer costs around 150$ and has a 70-95% correlation with the professional.
+![image](https://github.com/user-attachments/assets/58bea759-bc36-4ec1-85b0-2f9f5d821f03)
+
 
 
 ------------------------------------------------------------------------------------------------------------------------
