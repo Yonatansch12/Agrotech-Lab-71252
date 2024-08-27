@@ -18,7 +18,7 @@ The system includes an OLED screen that displays the counting progress.
 During the project, we measured the success rate of seed counting across different prototypes. The system’s success rate ranged from 70% to 92%, with the final prototype achieving the highest success rate of 92%.
 
 ------------------------------------------------------------------------------------------------------------------------
-## Hardware
+### Hardware
 
 #### Electronic Compoenets: 
 - FireBeetle 2 ESP-32 E
